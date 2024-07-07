@@ -3,7 +3,7 @@ int window[4];
 //客流量
 int MaxCustomerFlow=0;
 int MinCustomerFlow=0;
-
+int a=0;
 int TotalCustomers=0;
 //等待时长
 int TotalWaitTime=0;
