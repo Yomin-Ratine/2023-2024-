@@ -1,5 +1,0 @@
-﻿  main.c
-D:\Projects\2023-2024综合设计\3\main.c(27,13): warning C4013: “rand”未定义；假设外部返回 int
-D:\Projects\2023-2024综合设计\3\main.c(42,15): warning C4013: “Operate”未定义；假设外部返回 int
-D:\Projects\2023-2024综合设计\3\main.c(67,5): warning C4102: “Start”: 未引用的标签
-  3.vcxproj -> D:\Projects\2023-2024综合设计\Debug\3.exe

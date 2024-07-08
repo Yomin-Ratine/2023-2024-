@@ -1,6 +1,6 @@
-﻿  FileName.c
-D:\Projects\2023-2024综合设计\2\FileName.c(33,28): warning C4244: “初始化”: 从“time_t”转换到“int”，可能丢失数据
-D:\Projects\2023-2024综合设计\2\FileName.c(39,28): warning C4244: “初始化”: 从“time_t”转换到“int”，可能丢失数据
-D:\Projects\2023-2024综合设计\2\FileName.c(57,46): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
-D:\Projects\2023-2024综合设计\2\FileName.c(80,11): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-  2.vcxproj -> D:\Projects\2023-2024综合设计\Debug\2.exe
+﻿  2.c
+D:\Projects\2023-2024-ComprehensiveDesign\2\2.c(33,28): warning C4244: “初始化”: 从“time_t”转换到“int”，可能丢失数据
+D:\Projects\2023-2024-ComprehensiveDesign\2\2.c(39,28): warning C4244: “初始化”: 从“time_t”转换到“int”，可能丢失数据
+D:\Projects\2023-2024-ComprehensiveDesign\2\2.c(57,46): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+D:\Projects\2023-2024-ComprehensiveDesign\2\2.c(80,11): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  2.vcxproj -> D:\Projects\2023-2024-ComprehensiveDesign\Debug\2.exe
